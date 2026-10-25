@@ -196,3 +196,5 @@ Rc = ReportCard()
 #Rc.generate_all(students)
 #print(s2.get_marks())
 Rc.generate(s1)
+
+# Learning how Git tracks changes
